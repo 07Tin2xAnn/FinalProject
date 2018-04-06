@@ -1,0 +1,466 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/firstsplash.unity
+    guid: 125d489cbeb882449b20c964ce9c224b
+  - enabled: 1
+    path: Assets/secondsplash.unity
+    guid: d0cc9a46b35661c42bc16af8a01eab06
+  - enabled: 1
+    path: Assets/GettingGenderScene.unity
+    guid: c77c048d83f865841a43fc811a211c50
+  - enabled: 1
+    path: Assets/girls/girlsit (1).unity
+    guid: 73d036cac598f724695b26f43917ac2b
+  - enabled: 1
+    path: Assets/girls/girlsit (2).unity
+    guid: fec94efe893d5b94d85b7385ab5e1cd6
+  - enabled: 1
+    path: Assets/girls/girlsit (3).unity
+    guid: 59ce4133aeb564e4781c421192456a80
+  - enabled: 1
+    path: Assets/girls/girlsit (4).unity
+    guid: 45b615625aed88c4d96401b63ecec80f
+  - enabled: 1
+    path: Assets/girls/girlsit (5).unity
+    guid: 254578c4e995b294a8a49ecbad77f123
+  - enabled: 1
+    path: Assets/girls/girlsit (6).unity
+    guid: 96790d3a2f3e3c4408f326210bb50702
+  - enabled: 1
+    path: Assets/girls/girlsit (7).unity
+    guid: 20defe7d80193b7439341c1d736f8083
+  - enabled: 1
+    path: Assets/girls/girlsit (8).unity
+    guid: e4a858ff0c876b441bb2a285016996d0
+  - enabled: 1
+    path: Assets/girls/girlsit (9).unity
+    guid: fcf66ce1809dd104aa25f87457cbb8c3
+  - enabled: 1
+    path: Assets/girls/girlsit (10).unity
+    guid: 3dff67f3b8a8c9946ac01e53415f8709
+  - enabled: 1
+    path: Assets/girls/girlsit (11).unity
+    guid: 59832807dbe0de049a5be7287757ca3e
+  - enabled: 1
+    path: Assets/girls/girlsit (12).unity
+    guid: 3796afd3f0b498a44b7c26d6070c7a27
+  - enabled: 1
+    path: Assets/girls/girlsit (13).unity
+    guid: 8cf58eb18e82147468e7edd154086bac
+  - enabled: 1
+    path: Assets/girls/girlsit (14).unity
+    guid: feed3f65e49e4a14a98c2acdeef42fee
+  - enabled: 1
+    path: Assets/girls/girlsit (15).unity
+    guid: 00c098efa88ac12478257e764d10080f
+  - enabled: 1
+    path: Assets/girls/girlsit (16).unity
+    guid: 1b1281113df8c3f4da12dc1dbec3bf20
+  - enabled: 1
+    path: Assets/girls/girlsit (17).unity
+    guid: b339192c2d8ab4243a465dce6d944269
+  - enabled: 1
+    path: Assets/girls/girlsit (18).unity
+    guid: ba223cb9dd730034f8dfa5e0ccb211aa
+  - enabled: 1
+    path: Assets/girls/girlsit (19).unity
+    guid: fc9c4f0a9c21c134b9957c036627a634
+  - enabled: 1
+    path: Assets/girls/girlsit (20).unity
+    guid: f84ca8aef4153924ea306567293e7583
+  - enabled: 1
+    path: Assets/girls/girlsit (21).unity
+    guid: 6cb6a706e36108346a026d29dc67952f
+  - enabled: 1
+    path: Assets/girls/girlsit (22).unity
+    guid: 1d346712e24c32743b3957f3cdc37809
+  - enabled: 1
+    path: Assets/girls/girlsit (23).unity
+    guid: 2f02694912c662e4bba32b3b1bde29ae
+  - enabled: 1
+    path: Assets/girls/girlsit (24).unity
+    guid: 4b1ee43f6bcb8d84398c7fa1f6007ed3
+  - enabled: 1
+    path: Assets/girls/girlsit (25).unity
+    guid: 30f2f0d7097da7345a38c11c32317650
+  - enabled: 1
+    path: Assets/girls/girlsit (26).unity
+    guid: 1d4b00fc5c7df8144a89bf44169e56a9
+  - enabled: 1
+    path: Assets/girls/girlsit (27).unity
+    guid: 92d7b50357de61348ad972e9383d25c7
+  - enabled: 1
+    path: Assets/girls/girlsit (28).unity
+    guid: aeafa0ce5c60c88468faee6134f6f946
+  - enabled: 1
+    path: Assets/girls/girlsit (29).unity
+    guid: 008ac0990646b3b46b51e4f89e6b164b
+  - enabled: 1
+    path: Assets/girls/girlsit (30).unity
+    guid: 3c50fbb4e28945c45bea91cd42410b28
+  - enabled: 1
+    path: Assets/girls/girlsit (31).unity
+    guid: c0276c868d9b0134e84410ec8fc4b4e7
+  - enabled: 1
+    path: Assets/girls/girlsit (32).unity
+    guid: db17652cdd364f04aa8b312f1c90d912
+  - enabled: 1
+    path: Assets/girls/girlsit (33).unity
+    guid: 993ad535afdbb7e4d987a6534f8e14c4
+  - enabled: 1
+    path: Assets/girls/girlsit (34).unity
+    guid: f25e0300d7db8ad4480ac884fe340305
+  - enabled: 1
+    path: Assets/girls/girlsit (35).unity
+    guid: 77a060083d6c73f4e88e881b91c3da3f
+  - enabled: 1
+    path: Assets/girls/girlsit (36).unity
+    guid: b0770776ad0932e459e336dc017095d5
+  - enabled: 1
+    path: Assets/girls/girlsit (37).unity
+    guid: 046323aa498c55f44a976e1c51b8c781
+  - enabled: 1
+    path: Assets/girls/girlsit (38).unity
+    guid: 587998db27ffb1947ab98ab2adc8a943
+  - enabled: 1
+    path: Assets/girls/girlsit (39).unity
+    guid: 4fd7e5a36543acc4e9f09effbfb7c2c2
+  - enabled: 1
+    path: Assets/girls/girlsit (40).unity
+    guid: 861f68c7d14c3d14d80d20308dd67cc8
+  - enabled: 1
+    path: Assets/girls/girlsit (41).unity
+    guid: 7eceab5b22ba80a45bdebb11d3c472e7
+  - enabled: 1
+    path: Assets/girls/girlsit (42).unity
+    guid: 2eb7740a43ff60949830935634445273
+  - enabled: 1
+    path: Assets/girls/girlsit (43).unity
+    guid: d5306a078ff3ac64a9d5991ecc8cd347
+  - enabled: 1
+    path: Assets/girls/girlsit (44).unity
+    guid: fde6122c7fb6edc4ea531a3126ef931c
+  - enabled: 1
+    path: Assets/girls/girlsit (45).unity
+    guid: 86acdb257a2f71245ac76306bd7439c1
+  - enabled: 1
+    path: Assets/girls/girlsit (46).unity
+    guid: 4ba1e34cfc6d24f43b8aa1977cf8a143
+  - enabled: 1
+    path: Assets/girls/girlsit (47).unity
+    guid: 364e9291e0724a649a7dec82bd49a7f9
+  - enabled: 1
+    path: Assets/girls/girlsit (48).unity
+    guid: bae02544f1f2b204b93d808df11897db
+  - enabled: 1
+    path: Assets/girls/girlsit (49).unity
+    guid: 9819d5891488552458389640132fe785
+  - enabled: 1
+    path: Assets/girls/girlsit (50).unity
+    guid: 578db9383ce926741bfb90db7a262082
+  - enabled: 1
+    path: Assets/girls/girlsit (51).unity
+    guid: 2175b7b1d5caf8f4890b06f3b99e090a
+  - enabled: 1
+    path: Assets/girls/girlsit (52).unity
+    guid: 00911bfba9dc7264993382caf51f43ad
+  - enabled: 1
+    path: Assets/boys/boysit (1).unity
+    guid: 6cf5dcb230ddcd34bb47b945daec9612
+  - enabled: 1
+    path: Assets/boys/boysit (2).unity
+    guid: 6fff48f68be94ca428bc22432f83a24e
+  - enabled: 1
+    path: Assets/boys/boysit (3).unity
+    guid: b5263d5129c2f33428a06859f13fa8d4
+  - enabled: 1
+    path: Assets/boys/boysit (4).unity
+    guid: a748ed769ce2448498171f3100aff1b2
+  - enabled: 1
+    path: Assets/boys/boysit (5).unity
+    guid: 3e7b512adbffecc458ba1499a0620edc
+  - enabled: 1
+    path: Assets/boys/boysit (6).unity
+    guid: 7a969c5fc49426d40a95f43896e00793
+  - enabled: 1
+    path: Assets/boys/boysit (7).unity
+    guid: b4fa3bf5a1c734849af464cb4dbb3536
+  - enabled: 1
+    path: Assets/boys/boysit (8).unity
+    guid: 623cc66045fd7894a8a0cb1f47b4327b
+  - enabled: 1
+    path: Assets/boys/boysit (9).unity
+    guid: 9ff188c7352316948b347bf7353a1009
+  - enabled: 1
+    path: Assets/boys/boysit (10).unity
+    guid: 1d358dd1f77a2664eae7d9de17174c81
+  - enabled: 1
+    path: Assets/boys/boysit (11).unity
+    guid: e62339dd47ac78a48a45dacb041ddf75
+  - enabled: 1
+    path: Assets/boys/boysit (12).unity
+    guid: bc95f51e3e65e4b45b44742f4da5660a
+  - enabled: 1
+    path: Assets/boys/boysit (13).unity
+    guid: 129eb8214c6d329419bc838ffe509bcb
+  - enabled: 1
+    path: Assets/boys/boysit (14).unity
+    guid: e941bd7d369782644a47766d52877146
+  - enabled: 1
+    path: Assets/boys/boysit (15).unity
+    guid: 29aa286fa96f37b4296a41911673db86
+  - enabled: 1
+    path: Assets/boys/boysit (16).unity
+    guid: 5081a6eb7d252954db9448759a745350
+  - enabled: 1
+    path: Assets/boys/boysit (17).unity
+    guid: 5a7d73a1732d4d94faa62ba6e49c82df
+  - enabled: 1
+    path: Assets/boys/boysit (18).unity
+    guid: f09381b174e4cbd4cb1aa951b3e47b7b
+  - enabled: 1
+    path: Assets/boys/boysit (19).unity
+    guid: 27725c2e6bcd05c49acf2aef47de51bc
+  - enabled: 1
+    path: Assets/boys/boysit (20).unity
+    guid: 82fb826b0c5a7ad4e8c97cfb998bb5ab
+  - enabled: 1
+    path: Assets/boys/boysit (21).unity
+    guid: d55349d168c200048ae42b809721c31d
+  - enabled: 1
+    path: Assets/boys/boysit (22).unity
+    guid: 56c7ccc68d963534d933c3c04507e0b9
+  - enabled: 1
+    path: Assets/boys/boysit (23).unity
+    guid: 08835924006bdbb4b8d0d3d543812433
+  - enabled: 1
+    path: Assets/boys/boysit (24).unity
+    guid: 850c14ed914e0d3409f173b74e327b6d
+  - enabled: 1
+    path: Assets/boys/boysit (25).unity
+    guid: 125a3256892874c4398b62d61e6f08b6
+  - enabled: 1
+    path: Assets/boys/boysit (26).unity
+    guid: 10d1bf04e4b668443bc9150952c8e209
+  - enabled: 1
+    path: Assets/boys/boysit (27).unity
+    guid: cf237c6eb54427340b5963c1f7177eeb
+  - enabled: 1
+    path: Assets/boys/boysit (28).unity
+    guid: 995be91868d23c04aac570e42f42390a
+  - enabled: 1
+    path: Assets/boys/boysit (29).unity
+    guid: 95a5438db18687448a788570f50fad6b
+  - enabled: 1
+    path: Assets/boys/boysit (30).unity
+    guid: a8a1decb29e83fb48b34e77777da8ddb
+  - enabled: 1
+    path: Assets/boys/boysit (31).unity
+    guid: 9e6a7285c9955074ab23e23ea37161e4
+  - enabled: 1
+    path: Assets/boys/boysit (32).unity
+    guid: 5d6d87b7f08abf64b9d53e2f4d755db2
+  - enabled: 1
+    path: Assets/boys/boysit (33).unity
+    guid: a33bfd556b3dc344ab569f8aa66429c7
+  - enabled: 1
+    path: Assets/boys/boysit (34).unity
+    guid: 78d562e6a43ab694c887db1e97b20ecb
+  - enabled: 1
+    path: Assets/boys/boysit (35).unity
+    guid: 663c212282f9d9844b0a08f61b87d1f9
+  - enabled: 1
+    path: Assets/boys/boysit (36).unity
+    guid: 86b05771723502d4e965bf39f9e38612
+  - enabled: 1
+    path: Assets/boys/boysit (37).unity
+    guid: 2c7da3198ef819442aa03ac0d7ce49de
+  - enabled: 1
+    path: Assets/boys/boysit (38).unity
+    guid: 4fcec33314d7c3f4eb08f16ec07dcf21
+  - enabled: 1
+    path: Assets/boys/boysit (39).unity
+    guid: 72feac048124d3f4c8896dfdbfe176a7
+  - enabled: 1
+    path: Assets/boys/boysit (40).unity
+    guid: a484a3dfecb92db4c8f65efda7b05f0d
+  - enabled: 1
+    path: Assets/boys/boysit (41).unity
+    guid: 4ac88cb2961e1344daf14b3a222fec11
+  - enabled: 1
+    path: Assets/boys/boysit (42).unity
+    guid: 3fc7d2ce5a3752d43b03e7e3dd933127
+  - enabled: 1
+    path: Assets/boys/boysit (43).unity
+    guid: e508c0800dbf2dc418289342b4436fbf
+  - enabled: 1
+    path: Assets/boys/boysit (44).unity
+    guid: 4d9690aff594d554f92fc9298892f5dd
+  - enabled: 1
+    path: Assets/boys/boysit (45).unity
+    guid: cfe093695216cde46b58f1db9c212bfd
+  - enabled: 1
+    path: Assets/boys/boysit (46).unity
+    guid: 19392ea26ef13854694124fcba8e4b99
+  - enabled: 1
+    path: Assets/boys/boysit (47).unity
+    guid: a2f3447c294ccae4cb1ab1bc0484ec15
+  - enabled: 1
+    path: Assets/boys/boysit (48).unity
+    guid: 5f01222bb2a1ebc4eb28754a7068baae
+  - enabled: 1
+    path: Assets/boys/boysit (49).unity
+    guid: 41ab341142dcaf344ba94d682eb158cc
+  - enabled: 1
+    path: Assets/boys/boysit (50).unity
+    guid: 5953324559333c246ad361c37b8b4496
+  - enabled: 1
+    path: Assets/boys/boysit (51).unity
+    guid: caaa7cb2ccf88134591eabb5cf19db58
+  - enabled: 1
+    path: Assets/boys/boysit (52).unity
+    guid: 850484b522f771e4192164a139caa17a
